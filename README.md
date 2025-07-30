@@ -1,1 +1,1 @@
-# ICASSP_2026
+Dual-Branch Spatial-Lighting Network for Robust Photometric Stereo
